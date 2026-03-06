@@ -10,28 +10,11 @@
     "Posix/NlLanginfoLTest.AllItems/be_BY",
     "Posix/NlLanginfoLTest.AllItems/bs_BA",
     "Posix/NlLanginfoLTest.AllItems/or_IN",
-
-    "FileTempTest.MkdtempNonExistentPath",
-    "FileTempTest.MkostempNonExistentPath",
-    "FileTempTest.MkstempNonExistentPath",
-    "PosixInitStateTest.SetStateRestoresState",
     "PosixMemalignTest.FailsWithInvalidAlignment*",
-    "PosixMemoryMapTest.CanChangeMemoryProtection",
-    "PosixThreadDetachTest.SunnyDay",
-    "PosixTimeClockTests.ClockReturnsNonNegative",
-    "SbAudioSinkTest.UpdateStatusCalled",
-    "SbLogFlushTest.DontCrashMeBro"
+    "PosixThreadDetachTest.SunnyDay"
   ],
   "_filtered_b/467135717": [
-    "FileTempTest.MkdtempNonExistentPath",
-    "FileTempTest.MkostempNonExistentPath",
-    "FileTempTest.MkstempNonExistentPath",
-    "PosixInitStateTest.SetStateRestoresState",
     "PosixMemalignTest.FailsWithInvalidAlignment*",
-    "PosixMemoryMapTest.CanChangeMemoryProtection",
-    "PosixThreadDetachTest.SunnyDay",
-    "PosixTimeClockTests.ClockReturnsNonNegative",
-    "SbAudioSinkTest.UpdateStatusCalled",
-    "SbLogFlushTest.DontCrashMeBro"
+    "PosixThreadDetachTest.SunnyDay"
   ]
 }
